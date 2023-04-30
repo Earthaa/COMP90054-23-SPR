@@ -18,6 +18,7 @@ WARMUP  = 15    #Warmup period (time given to each agent on their first turn).
 
 # CLASS DEF ----------------------------------------------------------------------------------------------------------#
 
+# Do something
 class Game:
     def __init__(self, GameRule,
                  agent_list, 
